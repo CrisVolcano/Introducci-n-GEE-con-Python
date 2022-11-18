@@ -2,7 +2,7 @@
 <img src="RAC.png" />
 
 <h1>GEE y Geemap</h1> 
-<h2>Por:Cristian Aguilar-Barboza </h2> 
+<p>Por:Cristian Aguilar-Barboza</p> 
 <h2> Maria José Molina Montero</h2> 
 <h2> Jesús Cespedes Rivera</h2> 
 
