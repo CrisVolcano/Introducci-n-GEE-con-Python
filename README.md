@@ -1,9 +1,10 @@
 # Introducción a Google Earth Engine con Python
 
 <h1>GEE y Geemap</h1> 
-<h2>Por: 
- Cristian Aguilar-Barboza </h2> 
-<h2> Cristian Aguilar-Barboza </h2> 
+<h2>Por:Cristian Aguilar-Barboza </h2> 
+<h2> Maria José Molina Montero</h2> 
+<h2> Jesús Cespedes Rivera</h2> 
+
 <p>Descripción del material y objetivos.</p>
 
 <p>Índice</p> 
