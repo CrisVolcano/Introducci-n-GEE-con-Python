@@ -1,4 +1,5 @@
 # Introducción a Google Earth Engine con Python
+<img src="RAC.png" />
 
 <h1>GEE y Geemap</h1> 
 <h2>Por:Cristian Aguilar-Barboza </h2> 
